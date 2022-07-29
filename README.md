@@ -1,1 +1,1 @@
-# notes
+# Notes of learning programming 
